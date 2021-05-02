@@ -87,12 +87,11 @@ function deletemethod($data){
    include "db.php";
 
    $id=$data["id"];
-   
 
 
-   $sql= "DELETE FROM register where id=$id";
+   $sql= "DELETE FROM register where id='$id'";
 
-   if (mysqli_query($conn , $sql)) {
+   if (mysqli_query($conn , $sql)or die(mysqli_error($conn))) {
       echo '{"result": "delete Succesfully"}';
    } else{
 
