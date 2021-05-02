@@ -18,5 +18,6 @@ API DELETE.. Berikut ini penggunaannya di POSTMAN cukup masukkan http://[namadom
 
 Hasil Delete ID 2 sudah hilang
 
-<img width="1173" alt="Screen Shot 2021-05-02 at 23 29 41" src="https://user-images.githubusercontent.com/72307737/116820382-fba4dc00-ab9e-11eb-8cf7-e54559868bd2.png">
+<img width="1171" alt="Screen Shot 2021-05-02 at 23 34 29" src="https://user-images.githubusercontent.com/72307737/116820404-1d05c800-ab9f-11eb-850d-2e8323f9648f.png">
+
 
